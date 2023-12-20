@@ -221,4 +221,7 @@ i{
     .card-body {
         flex: 1 0 auto;
     }
+    p{
+        font-size: 1.3rem
+    }
 }
